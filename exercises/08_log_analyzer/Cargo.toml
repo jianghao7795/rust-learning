@@ -1,0 +1,6 @@
+[package]
+name = "stage08-log-analyzer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

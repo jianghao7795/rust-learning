@@ -1,0 +1,5 @@
+2026-08-17T09:00:00Z INFO server started
+2026-08-17T09:01:00Z DEBUG accepted connection
+2026-08-17T09:02:00Z WARN response is slow
+this line is invalid
+2026-08-17T09:03:00Z ERROR database unavailable

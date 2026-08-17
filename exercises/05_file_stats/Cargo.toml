@@ -1,0 +1,7 @@
+[package]
+name = "stage05-file-stats"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+stage04-text-stats = { path = "../04_text_stats" }

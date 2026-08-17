@@ -1,0 +1,6 @@
+[package]
+name = "stage02-ownership"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
