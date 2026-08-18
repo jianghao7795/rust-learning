@@ -186,3 +186,7 @@ fn analyze(text: &str) -> TextStats {
 - 文本统计器通过格式化、Clippy 和全部测试。
 
 完成后进入[阶段 5：错误处理与测试](05-errors-tests.md)。
+
+## 配套项目
+
+[文本统计器](../exercises/04_text_stats/)使用集合、迭代器、闭包和 trait 生成统计报告。

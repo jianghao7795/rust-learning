@@ -1,6 +1,7 @@
 [workspace]
 resolver = "3"
 members = [
+    "00_hello_cargo",
     "01_basics",
     "02_ownership",
     "03_todo",
@@ -8,5 +9,8 @@ members = [
     "05_file_stats",
     "06_engineering",
     "07_concurrency",
+    "07_async_tasks",
     "08_log_analyzer",
+    "08_todo_api",
+    "08_kv_store",
 ]

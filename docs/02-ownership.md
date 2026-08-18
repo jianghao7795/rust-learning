@@ -202,3 +202,7 @@ fn largest(values: &[i32]) -> Option<&i32> {
 - 所有练习通过测试，并且没有用不必要的 `clone()`。
 
 完成后进入[阶段 3：结构体、枚举与模块](03-data-modeling.md)。
+
+## 配套项目
+
+[所有权与借用工具集](../exercises/02_ownership/)通过字符串、切片和引用返回值练习本章规则。

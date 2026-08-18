@@ -191,3 +191,7 @@ mod tests {
 - 计算器通过 `cargo fmt --check`、`cargo clippy -- -D warnings` 和 `cargo test`。
 
 完成后进入[阶段 2：所有权、借用与生命周期](02-ownership.md)。
+
+## 配套项目
+
+[命令行计算器](../exercises/01_basics/)综合使用变量、类型、函数、流程控制和 `Option`。

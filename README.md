@@ -18,18 +18,19 @@
 
 ## 配套练习目录
 
-阶段 1～8 都有独立、可运行的 Cargo 项目，统一入口见 [exercises/README.md](exercises/README.md)。
+每个教学 Markdown 都有一个或多个独立、可运行、可测试的 Cargo 项目，统一入口见 [exercises/README.md](exercises/README.md)。
 
 | 阶段 | 练习目录 |
 | --- | --- |
+| 0 | [Cargo 问候程序](exercises/00_hello_cargo/) |
 | 1 | [基础计算器](exercises/01_basics/) |
 | 2 | [所有权与借用](exercises/02_ownership/) |
 | 3 | [内存待办事项](exercises/03_todo/) |
 | 4 | [文本统计器](exercises/04_text_stats/) |
 | 5 | [文件统计器](exercises/05_file_stats/) |
 | 6 | [工程化待办事项](exercises/06_engineering/) |
-| 7 | [并发任务执行器](exercises/07_concurrency/) |
-| 8 | [综合日志分析器](exercises/08_log_analyzer/) |
+| 7 | [线程任务执行器](exercises/07_concurrency/)、[异步任务调度器](exercises/07_async_tasks/) |
+| 8 | [日志分析器](exercises/08_log_analyzer/)、[待办 Web API](exercises/08_todo_api/)、[本地键值存储](exercises/08_kv_store/) |
 
 在 `exercises` 目录中可以一次检查全部练习：
 

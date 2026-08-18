@@ -98,3 +98,7 @@ Hello, Rust!
 - 知道源代码、项目配置和构建产物分别在哪个目录。
 
 完成后进入[阶段 1：变量、类型、函数与流程控制](01-basics.md)。
+
+## 配套项目
+
+[Cargo 问候程序](../exercises/00_hello_cargo/)包含 binary、library 和单元测试，用它实际执行本章所有 Cargo 命令。

@@ -195,3 +195,7 @@ impl TodoList {
 - 待办事项项目通过格式化、Clippy 和全部测试。
 
 完成后进入[阶段 4：集合、迭代器、泛型与 Trait](04-collections-traits.md)。
+
+## 配套项目
+
+[内存待办事项](../exercises/03_todo/)使用结构体、枚举、模式匹配和模块组织完整业务流程。

@@ -187,3 +187,7 @@ fn main() -> ExitCode {
 - 项目通过格式化、Clippy 和全部测试。
 
 完成后进入[阶段 6：智能指针与项目工程化](06-engineering.md)。
+
+## 配套项目
+
+[文件统计器](../exercises/05_file_stats/)包含自定义错误、错误传播、单元测试和集成测试。

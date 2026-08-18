@@ -180,3 +180,8 @@ async fn main() {
 - 两版任务执行器都有正常和失败路径测试。
 
 完成后进入[阶段 8：综合项目](08-project.md)。
+
+## 配套项目
+
+- [线程任务执行器](../exercises/07_concurrency/)：使用线程、Channel、`Arc` 和原子类型。
+- [异步任务调度器](../exercises/07_async_tasks/)：使用 Tokio、超时和并发限制。

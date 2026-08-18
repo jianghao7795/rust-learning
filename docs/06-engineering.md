@@ -181,3 +181,7 @@ todo-workspace/
 - `cargo fmt --check`、`cargo clippy --workspace -- -D warnings` 和 `cargo test --workspace` 全部通过。
 
 完成后进入[阶段 7：线程、并发与异步](07-concurrency-async.md)。
+
+## 配套项目
+
+[分层待办事项应用](../exercises/06_engineering/)将模型、存储 trait、业务服务和程序入口拆分到独立模块。
